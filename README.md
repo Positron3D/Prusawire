@@ -61,6 +61,10 @@ Coming out later today! Check back soon.
 
 Installing Klipper on the Einsy Rambo board is possible, with extra steps. Follow the guide published by the awesome folks at MyRigs3D! We recommend Method 2.
 
+## Klipper Configuration Files
+
+The most up–to–date Klipper configuration files for setting up or updating the Prusawire are in our [config repository](https://github.com/Positron3D/prusawire-klipper-config).
+
 ## Credits 
 
 Many thanks to all the awesome people and companies that have made this possible. Notably:
