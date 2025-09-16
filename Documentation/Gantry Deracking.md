@@ -1,7 +1,9 @@
 # Prusawire Gantry Deracking
 
 *This procedure is a composite of initial advice from @ellafoxo, @thenomad, and @safe from the Positron Discord.*
-*Current Compatibility: Prusawire - Beta 1*
+
+
+**Current Compatibility:** *Prusawire - Beta 1*
 
 ## Overview
 The gantry de-racking procedure is critical to ensure smooth motion in X and Z.  The general idea is to loosen certain screws on the gantry, bump the bottom of the gantry against the X and Z motor joints to align, and tighten the screws.
