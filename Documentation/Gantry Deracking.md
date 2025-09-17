@@ -22,7 +22,7 @@ The gantry de-racking procedure is critical to ensure smooth motion in X and Z. 
 2. Remove the **bed**, **y-carriage**, and **y-rods** completely off the printer (if currently installed).
 3. Remove the **bumper block** and **door puller block** from the back of the gantry (if currently installed).
 
-    <img src="Assets/gantry-deracking/readyforderacking.png" width="400" alt="Prusawire ready for deracking.">
+  <img src="Assets/gantry-deracking/readyforderacking.png" width="400" alt="Prusawire ready for deracking.">
 
 4. Remove the **top left idler assembly** and **top right idler assembly** loosening the M3 SHCS on each.  
 	1. *TIP: A small piece of tape on the top and bottom of the assembly can be used to help keep the bearing stack together.*
