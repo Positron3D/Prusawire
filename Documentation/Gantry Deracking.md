@@ -40,29 +40,29 @@ The gantry de-racking procedure is critical to ensure smooth motion in X and Z. 
 9. Move the **x-gantry assembly** up and down a few times to allow parts to settle.
 10. Lower the **x-gantry assembly** until it bumps against the X and Z motor mounts.
 
-	<img src="Assets/gantry-deracking/gantry-installedloose.png" width="400" alt="">
+	<img src="Assets/gantry-deracking/gantry-installedloose.png" width="400" alt="Gantry resting on motor mounts.">
 
 11. Tighten the two top M5 BHCS on the x-gantry assembly, followed by the two front M5 BHCS.
 
-    <img src="Assets/gantry-deracking/xgantry-fronttop-tighten.png" width="400" alt="">
+    <img src="Assets/gantry-deracking/xgantry-fronttop-tighten.png" width="400" alt="Image showing M5 BHCS locations.">
 
 12. Raise the **x-gantry assembly** up to the top just high enough to be able to tighten the rear two M5 BHCS.
 
-    <img src="Assets/gantry-deracking/xgantry-rear-tighten.png" width="400" alt="">
+    <img src="Assets/gantry-deracking/xgantry-rear-tighten.png" width="400" alt="Image showing rear M5 BHCS locations on back of gantry.">
 
 13. Lower the **x-gantry assembly** back down to the bottom.
 14. Re-install the **top left idler assembly** and **top right idler assembly** by tightening the two M3 SHCS on each.
 15. Re-install the **bumper block** and **door puller block** on the rear of the gantry.
 16. Move the gantry up and down.  You shouldn't feel any resistance.
 
-	<img src="Assets/gantry-deracking/deracking-final.gif" width="400" alt="">
+	<img src="Assets/gantry-deracking/deracking-final.gif" width="400" alt="GIF showing smooth gantry movement and no play.">
 
 	1. When the gantry bumps the top of the frame, it should bump equally on both sides.
 
-    <img src="Assets/gantry-deracking/topbump.png" width="400" alt="">
+    <img src="Assets/gantry-deracking/topbump.png" width="400" alt="Image showing no gap between bump stop and frame.">
 
 	2. When the gantry bumps the bottom (X motor mount and Z motor mount), it should bump equally on both sides.
 
-    <img src="Assets/gantry-deracking/bottombump.png" width="400" alt="">
-	
+    <img src="Assets/gantry-deracking/bottombump.png" width="400" alt="Image showing no gap between gantry and motor mounts.">
+
 17. Check for any gantry racking a final time after installing XZ belts (and prior to installation of Y-axis).  Adjust front/top M5 screws if needed.
