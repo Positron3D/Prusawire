@@ -13,7 +13,7 @@ The X and Z belts must be installed and tensioned properly to ensure smooth and 
 - **DO NOT cut your belts** until you are 1000% certain you have done it correctly.  It's okay to leave a little extra length hanging out the back of the toolhead carriage until final assembly and validation.
 
 ## Prerequisites
-- Complete the [[Gantry Deracking]] procedure.
+- Complete the Gantry Deracking procedure.
 - Remove the **toolhead** from the **carriage mount** (if currently installed).
 	1. For Stealthburner, see the Stealthburner assembly manual for instructions.
 - (Optional, but highly recommended) Print and assemble the GT2 Belt Runner to easily and perfectly match your belt lengths: [Belt Runner - GT2 Belt Length Matcher \| Printables.com](https://www.printables.com/model/1192440-belt-runner-gt2-belt-length-matcher)
@@ -45,7 +45,6 @@ The X and Z belts must be installed and tensioned properly to ensure smooth and 
 6. Remove the 3x **M3x40 SHCS** from the left side of the **x-carriage assembly** to separate the left side from the right side.
 	
     <img src="Assets/xz-belt-install/xcarriage-screws.png" width="300" alt="Three screws on the left side of the x-carriage.">
-    ![[xcarriage-screws.png|300]]
 
 7. Gather all the needed parts:
 	- 2x **1600mm Gates GT2 Belt**
@@ -126,7 +125,7 @@ The X and Z belts must be installed and tensioned properly to ensure smooth and 
 
 24. You are finished and ready to tension the XZ Belts!
 
-    <img src="Assets/xz-belt-install/finished.png" width="300" alt="Finished belt assembly.">
+    <img src="Assets/xz-belt-install/finished.png" width="500" alt="Finished belt assembly.">
 	
 
 ### Belt Tensioning
