@@ -61,6 +61,8 @@ Coming out later today! Check back soon.
 
 Installing Klipper on the Einsy Rambo board is possible, with extra steps. Follow the guide published by the awesome folks at MyRigs3D! We recommend Method 2.
 
+**Note:** Some users have reported problems using `avrdude` with the latest Raspberry Pi OS version (bookworm). If you experience error messages from avrdude complaining about gpio ports being busy, please try using the bullseye version of Raspberry Pi OS instead, available as "Raspberry Pi OS (Legacy)" in Raspberry Pi Imager.
+
 ## Klipper Configuration Files
 
 The most up–to–date Klipper configuration files for setting up or updating the Prusawire are in our [config repository](https://github.com/Positron3D/prusawire-klipper-config).
