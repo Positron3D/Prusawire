@@ -59,7 +59,7 @@ Coming out later today! Check back soon.
 
 ## Upgrading the Einsy Rambo to Klipper - Read this
 
-Installing Klipper on the Einsy Rambo board is possible, with extra steps. Follow the guide published by the awesome folks at MyRigs3D! We recommend Method 2.
+Installing Klipper on the Einsy Rambo board is possible, with extra steps. Follow the guide [published by the awesome folks at MyRigs3D](https://myrigs3d.com/blogs/infos/revive-your-prusa-mk3s-with-klipper-1-5-flash-bootloader)! We recommend Method 2.
 
 ## Klipper Configuration Files
 
