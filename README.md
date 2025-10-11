@@ -55,7 +55,7 @@ We are accepting serials over on the Positron 3D Discord. Please submit your req
 
 ## Bill of Materials
 
-Coming out later today! Check back soon.
+[Prusawire 2025.B1 Bill of Materials](BOM/BOM_2025-B1.md)
 
 ## Upgrading the Einsy Rambo to Klipper - Read this
 
