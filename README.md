@@ -45,19 +45,19 @@ X: 250mm
 Y: 210mm
 Z: 185mm
 
+## Bill of Materials
+
+[Prusawire 2025.B1 Bill of Materials](BOM/BOM_2025-B1.md)
+
 ## Technical Support
 
 Prusawire, technically, does not count as a Voron Switchwire. We ask you kindly not to nag the Voron Design team for technical support.
 
-Instead, please join the Positron3D Discord for support with your build, and maybe share your progress over there too.
+Instead, please [join the Positron3D Discord](https://discord.com/invite/positron) for support with your build, and maybe share your progress over there too.
 
 ## Serial Numbers
 
-We are accepting serials over on the Positron 3D Discord. Please submit your request to the #prusawire-serial-request channel over there. 
-
-## Bill of Materials
-
-[Prusawire 2025.B1 Bill of Materials](BOM/BOM_2025-B1.md)
+We are accepting serials over on the [Positron 3D Discord](https://discord.com/invite/positron). Please submit your request to the #prusawire-serial-request channel over there. 
 
 ## Upgrading the Einsy Rambo to Klipper - Read this
 
