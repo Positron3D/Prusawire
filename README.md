@@ -12,7 +12,8 @@ A wholly unofficial Prusa MK3 and MK4 total conversion mod, from Positron's Apri
 > As the first iteration wrapped up, I took interest in the project, and decided to take this April Fools joke one step further and build it into a reliable machine.
 >
 > After months of hard work, please enjoy the build ❤
-> [@ellafoxo](https://www.printables.com/@ellafoxo)
+> 
+> [-@ellafoxo](https://www.printables.com/@ellafoxo)
 
 ## Who This Printer is For
 
