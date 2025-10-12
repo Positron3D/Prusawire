@@ -7,11 +7,12 @@ A wholly unofficial Prusa MK3 and MK4 total conversion mod, from Positron's Apri
 
 ## About
 
-Nomad of Positron3D came up with this idea shortly after completing their Switchwire build. The idea started as a quick design exercise, to try and convert a Prusa MK4S frame into a Switchwire, using everything left over from a CORE One Upgrade.
-
-As the first iteration wrapped up, I took interest in the project, and decided to take this April Fools joke one step further and build it into a reliable machine.
-
-After months of hard work, please enjoy the build ❤
+> Nomad of Positron3D came up with this idea shortly after completing their Switchwire build. The idea started as a quick design exercise, to try and convert a Prusa MK4S frame into a Switchwire, using everything left over from a CORE One Upgrade.
+>
+> As the first iteration wrapped up, I took interest in the project, and decided to take this April Fools joke one step further and build it into a reliable machine.
+>
+> After months of hard work, please enjoy the build ❤
+> [@ellafoxo](https://www.printables.com/@ellafoxo)
 
 ## Who This Printer is For
 
@@ -43,19 +44,19 @@ X: 250mm
 Y: 210mm
 Z: 185mm
 
+## Bill of Materials
+
+[Prusawire 2025.B1 Bill of Materials](BOM/BOM_2025-B1.md)
+
 ## Technical Support
 
 Prusawire, technically, does not count as a Voron Switchwire. We ask you kindly not to nag the Voron Design team for technical support.
 
-Instead, please join the Positron3D Discord for support with your build, and maybe share your progress over there too.
+Instead, please [join the Positron3D Discord](https://discord.com/invite/positron) for support with your build, and maybe share your progress over there too.
 
 ## Serial Numbers
 
-We are accepting serials over on the Positron 3D Discord. Please submit your request to the #prusawire-serial-request channel over there. 
-
-## Bill of Materials
-
-[Prusawire 2025.B1 Bill of Materials](BOM/BOM_2025-B1.md)
+We are accepting serials over on the [Positron 3D Discord](https://discord.com/invite/positron). Please submit your request to the #prusawire-serial-request channel over there. 
 
 ## Upgrading the Einsy Rambo to Klipper - Read this
 
