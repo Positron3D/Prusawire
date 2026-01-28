@@ -8,6 +8,7 @@
 - [Prusawire BigTreeTech HDMI 5 Mount by @TheNexusAvenger](https://www.printables.com/model/1377302-prusawire-bigtreetech-hdmi-5-mount)
 - [Prusawire ELectronics Tower (w/ xBuddy Box) by @TheNexusAvenger](https://www.printables.com/model/1415732-prusawire-electronics-tower)
 - [Prusawire Electronics Tower (w/ all printed parts) by @WaschBaer](https://www.printables.com/model/1464165-skr-mini-e3-v3-printable-case-pi3b-backplate-mods)
+- [Prusawire BTT mini 12864 V2.0 Display Mount and One Piece Front by @Diabeto](https://www.printables.com/model/1572666-prusawire-btt-mini-12864-v20-display-mount-front)
 
 ## Wiring
 - [Prusawire Cable Management Mods by @telefaksi](https://www.printables.com/model/1374187-prusawire-cable-management-mods)
