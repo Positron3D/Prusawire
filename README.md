@@ -14,7 +14,7 @@ View the [changelog](CHANGELOG.md) for a for detailed listing of project evoluti
 
 Be sure to grab the latest STLs and documentation from the GitHub Repository.
 
-==Link to 2026.R1 CAD Viewer: [cad.positron3d.com](https://cad.positron3d.com)==
+Link to 2026.R1 CAD Viewer: [cad.positron3d.com](https://cad.positron3d.com)
 
 
 ## Manual & Documentation
@@ -31,10 +31,9 @@ The [Official Positron3D CAD Viewer](https://cad.positron3d.com) can be very hel
 
 ## Who This Printer is For
 
-Pick one of the following:
-
 - You have an old MK3, MK3S, or MK3S+, and you want to teach an old dog new tricks and are on a budget
 - You upgraded from MK4S to a Core ONE, and have a leftover frame. You are okay spending money on building a new printer with that hardware.
+- You have a MK4 or MK4S that you want to Klipper-ize and experiment with!
 
 Additionally, the following says this printer is for you: 
 
