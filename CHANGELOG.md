@@ -2,10 +2,15 @@
 
 Updated periodically to note significant design changes, fixes, and enhancements.
 
+- 2026-07-19
+    - Official Release of 2026.R1!
+        - Complete revamp of Y Axis (belt path, tensioning, accounting for MK3 and MK4 Y Carriages)
+        - Re-engineering of XZ Belt Paths to improve overall performance.
+        - CAD cleanup, general small polish throughout the project.
 - 2025-11-15
     - Update y_belt_tensioner_front to allow recessed screw cap head.  Update tensioner screw to M3x16 SHCS in BOM.  Update y_belt_tensioner_rear to have M3S and V0SN variants. (via @erikbuild)
 - 2025-11-05
-    - Documentation site launched ([https://positron3d.github.io/Prusawire](https://positron3d.github.io/Prusawire)) (via @erikbuild)
+    - Documentation site launched ([https://prusawire.positron3d.com](https://prusawire.positron3d.com)) (via @erikbuild)
 - 2025-10-31
     - Update XZ Blocks to have a variant for Prusa-style slim M3 Square Nuts as well as V0-style M3 Square Nuts. (via @Safe-ty)
     - Update Upper Idler Blocks to increase tolerance band for Z-rod lengths. (via @Safe-ty)
