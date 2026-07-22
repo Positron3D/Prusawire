@@ -1,0 +1,19 @@
+printables:
+  model_id: "1788294"
+
+  sync:
+    files: true
+    description: true
+    images: true
+    settings: false
+    recursive: true
+
+  paths:
+    models: "STLs/"
+    images: "Assets/"
+    description: README.md
+
+  flatten:
+    prefix_on_collision: true
+    separator: " - "
+
