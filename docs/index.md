@@ -6,7 +6,7 @@ nav_order: 1
 
 # Positron3D's Prusawire Documentation
 
-![](images/prusawire_2025b1_render.png)
+![](images/Prusawire_2026.R1_render.png)
 
 An unofficial Prusa MK3 and MK4 to Switchwire total conversion mod, from Positron 3D's April Fools of 2025.
 

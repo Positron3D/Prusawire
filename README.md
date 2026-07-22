@@ -1,6 +1,6 @@
 # Prusawire 2026.R1
 
-![Render](Assets/render.png)
+<img src="Assets/Prusawire_2026.R1_render.png" alt="Prusawire 2026.R1 Render" width="500">
 
 A Prusa MK3/MK4 to Voron Switchwire Conversion. Originally from Positron 3D's 2025 April Fools, transformed into a mature and fun 3D printer!
 
@@ -8,7 +8,7 @@ Build Volume: 250mm (X) by 210mm (Y) by 185mm (Z).
 
 ## Current Release
 
-2026.R1 was released on 2026-07-19.
+2026.R1 was released on 2026-07-24.
 
 View the [changelog](CHANGELOG.md) for a for detailed listing of project evolution.
 

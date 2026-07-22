@@ -2,7 +2,7 @@
 
 Updated periodically to note significant design changes, fixes, and enhancements.
 
-- 2026-07-19
+- 2026-07-24
     - Official Release of 2026.R1!
         - Complete revamp of Y Axis (belt path, tensioning, accounting for MK3 and MK4 Y Carriages)
         - Re-engineering of XZ Belt Paths to improve overall performance.
