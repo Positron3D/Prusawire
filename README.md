@@ -16,7 +16,10 @@ View the [changelog](CHANGELOG.md) for a for detailed listing of project evoluti
 
 Be sure to grab the latest STLs and documentation from the GitHub Repository or use the _NEW_ [Prusawire Configurator](https://configurator.positron3d.com) to configure your Prusawire, visualize it, and download the STLs you need for your build!
 
-Link to 2026.R1 CAD Viewer: [cad.positron3d.com](https://cad.positron3d.com)
+## Upgrading from Beta 1
+- Everything to do with XZ Axis has changed and is not compatible with R1.
+- Everything to do with Y Axis has changed and is not compatible with R1.
+- Electronics adjacent components (Mainboard, RPi Mount, Wago, Toolhead Board, etc), Door Idler components, Gantry Bumper, LCD Cover, and Front Panel/deck cover can be re-used.
 
 
 ## Manual & Documentation

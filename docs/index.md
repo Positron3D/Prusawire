@@ -22,9 +22,6 @@ View the [changelog](CHANGELOG.md) for a for detailed listing of project evoluti
 
 Be sure to grab the latest STLs and documentation from the GitHub Repository or use the _NEW_ [Prusawire Configurator](https://configurator.positron3d.com) to configure your Prusawire, visualize it, and download the STLs you need for your build!
 
-Link to 2026.R1 CAD Viewer: [cad.positron3d.com](https://cad.positron3d.com)
-
-
 ## Manual & Documentation
 
 [Assembly Manual](Manuals/Prusawire_2026.R1_Assembly_Manual.pdf).
