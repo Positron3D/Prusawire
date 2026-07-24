@@ -17,7 +17,7 @@ nav_order: 1
 {:toc}
 </details>
 
-**Current Compatibility:** *Prusawire - Beta 1*
+**Compatibility:** *Prusawire 2026.R1*
 
 ## Overview
 The gantry de-racking procedure is critical to ensure smooth motion in X and Z.  The general idea is to loosen certain screws on the gantry, bump the bottom of the gantry against the X and Z motor joints to align, and tighten the screws.

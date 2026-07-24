@@ -17,7 +17,7 @@ nav_order: 2
 {:toc}
 </details>
 
-**Compatibility:** *Prusawire - Beta 1*
+**Compatibility:** *Prusawire 2026.R1*
 
 ## Overview
 The X and Z belts must be installed and tensioned properly to ensure smooth and accurate gantry motion.
