@@ -16,6 +16,8 @@ Build Volume: 250mm (X) by 210mm (Y) by 185mm (Z).
 
 2026.R1 was released on 2026-07-24.
 
+[Article: Prusawire R1 - Designed With Leftovers](https://www.printables.com/article/prusawire-r1-designed-with-leftovers-VNGb2GZ).
+
 View the [changelog](CHANGELOG.md) for a for detailed listing of project evolution.
 
 Be sure to grab the latest STLs and documentation from the GitHub Repository or use the _NEW_ [Prusawire Configurator](https://configurator.positron3d.com) to configure your Prusawire, visualize it, and download the STLs you need for your build!
@@ -30,6 +32,8 @@ Link to 2026.R1 CAD Viewer: [cad.positron3d.com](https://cad.positron3d.com)
 [Prusawire Documentation and FAQ Site](https://prusawire.positron3d.com).
 
 The [Official Positron3D CAD Viewer](https://cad.positron3d.com?model=Prusawire_2026.R1) can be very helpful in building Prusawire.
+
+Be sure to post your _Make_ on the [Prusawire Printables page](https://www.printables.com/model/1788294-prusawire-2026r1)!
 
 ## Bill of Materials
 
@@ -51,7 +55,7 @@ Additionally, the following says this printer is for you:
 
 ## Want to Support the Project?
 
-First of all, thank you! Development costs have been mostly self-funded, with filament sponsored by Levendigs, and LDO Motors for providing the funds for the Prusa MK4 frame.
+First of all, thank you!
 
 - Support Positron3D to fund future endeavors: 
    - [Donate to Positron3D](https://www.paypal.com/donate/?hosted_button_id=YGPRVTSHN4FQG)

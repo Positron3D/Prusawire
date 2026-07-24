@@ -4,6 +4,7 @@ Updated periodically to note significant design changes, fixes, and enhancements
 
 - 2026-07-24
     - Official Release of 2026.R1!
+        - [Article: Prusawire R1 - Designed With Leftovers](https://www.printables.com/article/prusawire-r1-designed-with-leftovers-VNGb2GZ).
         - Complete revamp of Y Axis (belt path, tensioning, accounting for MK3 and MK4 Y Carriages)
         - Re-engineering of XZ Belt Paths to improve overall performance.
         - CAD cleanup, general small polish throughout the project.
