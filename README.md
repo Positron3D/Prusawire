@@ -23,11 +23,13 @@ Link to 2026.R1 CAD Viewer: [cad.positron3d.com](https://cad.positron3d.com)
 
 [Prusawire Documentation and FAQ Site](https://prusawire.positron3d.com).
 
-The [Official Positron3D CAD Viewer](https://cad.positron3d.com) can be very helpful in building Prusawire.
+The [Official Positron3D CAD Viewer](https://cad.positron3d.com?model=Prusawire_2026.R1) can be very helpful in building Prusawire.
 
 ## Bill of Materials
 
 [Prusawire 2026.R1 Bill of Materials](https://docs.google.com/spreadsheets/d/16whAEq4oKpdtc77cCxrXZkcxw_G3URlF5wZYUE42vhc/)
+
+Prusawire will require ~1060g of primary color filament and ~225g of accent color filament.  Accessory and component choices may affect these estimates slightly.
 
 ## Who This Printer is For
 
