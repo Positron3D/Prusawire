@@ -24,7 +24,7 @@ Be sure to grab the latest STLs and documentation from the GitHub Repository or 
 
 ## Manual & Documentation
 
-[Assembly Manual](Manuals/Prusawire_2026.R1_Assembly_Manual.pdf).
+[Assembly Manual](https://github.com/Positron3D/Prusawire/blob/main/Manuals/Prusawire_2026.R1_Assembly_Manual.pdf).
 
 [Prusawire Documentation and FAQ Site](https://prusawire.positron3d.com).
 
