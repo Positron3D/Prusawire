@@ -1,0 +1,3 @@
+# ABOUTME: Git attributes controlling line-ending handling across the repo.
+# ABOUTME: Forces LF in text-format STEP CAD files to prevent Windows CRLF pollution.
+*.step text eol=lf

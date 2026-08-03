@@ -35,6 +35,8 @@ Icon
 docs/Gemfile.lock
 
 
+CAD/*.f3z
+
 ._*
 .DocumentRevisions-V100
 .fseventsd

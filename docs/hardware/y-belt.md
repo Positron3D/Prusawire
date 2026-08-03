@@ -17,7 +17,7 @@ nav_order: 2
 {:toc}
 </details>
 
-**Compatibility:** *Prusawire - Beta 1*
+**Compatibility:** *Prusawire 2026.R1*
 
 ## Overview
 The Y belt must be installed and tensioned properly to ensure smooth and accurate bed motion.
@@ -26,4 +26,4 @@ The Y belt must be installed and tensioned properly to ensure smooth and accurat
 - Extra belt length has been specified in the BOM; it is expected to have some leftover belt afterwards.
 - **DO NOT cut your belts** until you are 1000% certain you have done it correctly.  It's okay to leave a little extra length hanging out until final assembly and validation.
 
-See the supplemental ![Y Idler Assembly - Prusawire 2025.B1.pdf](../assets/Y%20Idler%20Assembly%20-%20Prusawire%202025.B1.pdf) for instructions on the revised Y Idler.
+COMING SOON!

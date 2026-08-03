@@ -12,11 +12,11 @@ The latest BOM can be [found on GitHub in the BOM folder](https://github.com/Pos
 
 ## How can I get a Serial # for my finished build?
 
-We are accepting serials over on the [Positron 3D Discord](https://discord.com/invite/positron). Please submit your request to the `#prusawire-serial-request` channel over there.  There is an example submission and numerous other builds to reference for the format.
+We are accepting serials over on the [Positron 3D Discord](https://discord.gg/positron). Please submit your request to the `#prusawire-serial-request` channel over there.  There is an example submission and numerous other builds to reference for the format.
 
 ## Where can I get help with my build?
 
-The community over on the [Positron 3D Discord](https://discord.com/invite/positron) is very helpful.  Check out the `#prusawire-questions` channel there.
+The community over on the [Positron 3D Discord](https://discord.gg/positron) is very helpful.  Check out the `#prusawire-questions` channel there.
 
 ## The M3 T-Nut for 3030 Extrusion are expensive // What is the recommended Printed Replacement?
 The cost of actual roll-in T-Nuts for 3030 Extrusion really isn't worth it.  We suggest this excellent printed model which uses the same M3 Heat Set Inserts.
