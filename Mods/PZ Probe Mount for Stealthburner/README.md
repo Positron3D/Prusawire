@@ -1,0 +1,1 @@
+A PZ Probe mount for the Prusawire. Use two M2 self-threading screws up to about 10mm in length to mount it. You may lose some Z distance with this mod as it may interfere with the belt path at the top.
