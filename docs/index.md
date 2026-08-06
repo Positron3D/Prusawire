@@ -47,7 +47,6 @@ Prusawire will require ~1060g of primary color filament and ~225g of accent colo
 Additionally, the following says this printer is for you: 
 
 - You want to take your first steps into RepRap beyond Prusa, and Voron is an exciting route.
-- You are comfortable working from a CAD file as your build guide
 - You respect the Frankenstein-y nature of this April Fools joke printer
 
 ## Want to Support the Project?
