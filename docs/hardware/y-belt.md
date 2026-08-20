@@ -98,10 +98,10 @@ To properly tension the Y belts:
 - **Prusa Mobile App:** 
 	- [Prusa on the Apple App Store](https://apps.apple.com/us/app/prusa/id6477531937)
 	- [Prusa - Apps on Google Play](https://play.google.com/store/apps/details?id=com.prusa3d.connect&hl=en-US&pli=1)
-	- Tuner Mode for *MK3S --> X-Axis*
+	- Tuner Mode for *MK3S --> Y-Axis*
 		- Carriage all the way to the right
 - **Prusa Website Tuner:** [Prusa Belt tuner](https://belt.connect.prusa3d.com/)
-	- *MK3S --> X-Axis*
+	- *MK3S --> Y-Axis*
 		- Carriage all the way to the right
 - **Gates Carbon Drive Mobile App**
 	- [Carbon Drive Belt Tension Tool on the Apple App Store](https://apps.apple.com/app/bicycle-belt-tension-meter/id438346486)
