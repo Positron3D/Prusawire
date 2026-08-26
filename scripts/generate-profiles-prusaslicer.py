@@ -1,6 +1,7 @@
 """
 Generates Prusawire profiles from the Voron Switchwire profiles.
 The only major difference between the Voron Switchwire and Prusawire is the max build height.
+Some additional properties are set based on the Prusa MK4S, such as matching temperatures and disabling skirts.
 
 Usage: python3 generate-profiles-prusaslicer.py
 """
@@ -26,13 +27,39 @@ replaceStrings = {
     "printer_model=~/(V2_250|V2_300|V2_350|VT_250|VT_300|VT_350|V0_120|VS_MK52)/ and ": "",
 }
 
-# Keys are the property names in the profiles and values are the new values to use.
-replaceProperties = {
-    "max_print_height": "180",
-    "bed_model": "prusawire_build_plate.stl",
-    "bed_texture": "prusawire_texture.svg",
-    "thumbnail": "thumbnail_prusawire.png",
-    "printer_model": "Prusawire",
+# Keys are the profiles names. Values are dictionaries with the property names to set with the given values.
+# They will always be set, even if it isn't present otherwise.
+# The profile names must be the section name in the final name (ex: printer:Prusawire, not printer:VORON Switchwire)
+replacePropertiesBySection = {
+    "printer_model:Prusawire": {
+        "bed_model": "prusawire_build_plate.stl",
+        "bed_texture": "prusawire_texture.svg",
+        "thumbnail": "thumbnail_prusawire.png",
+    },
+    "print:*common*": {
+        "skirts": "0",
+    },
+    "printer:*VSW_COMMON*": {
+        "max_print_height": "180",
+    },
+    "printer:Prusawire - 0.4mm Nozzle (High Flow)": {
+        "printer_model": "Prusawire",
+    },
+    "printer:Prusawire - 0.25mm Nozzle": {
+        "printer_model": "Prusawire",
+    },
+    "filament:*PETG*": {
+        "first_layer_temperature": "250",
+        "temperature": "250",
+        "first_layer_bed_temperature": "85",
+        "bed_temperature": "90",
+    },
+    "filament:*PLA*": {
+        "first_layer_temperature": "230",
+        "temperature": "225",
+        "first_layer_bed_temperature": "60",
+        "bed_temperature": "60",
+    },
 }
 
 
@@ -127,6 +154,11 @@ for sectionName in profiles.sections():
     newSectionName = replaceString(sectionName)
     outputProfiles.add_section(newSectionName)
 
+    # Get the properties to replace for the section.
+    replaceProperties = {}
+    if newSectionName in replacePropertiesBySection.keys():
+        replaceProperties = replacePropertiesBySection[newSectionName]
+
     # Populate the section.
     section = profiles[sectionName]
     for key in section.keys():
@@ -134,6 +166,9 @@ for sectionName in profiles.sections():
             outputProfiles[newSectionName][key] = replaceProperties[key]
         else:
             outputProfiles[newSectionName][key] = replaceString(section[key])
+    for key in replaceProperties.keys():
+        if key not in section.keys():
+            outputProfiles[newSectionName][key] = replaceProperties[key]
 
 # Write the profiles.
 with open(targetProfilesLocation, "w", encoding="utf8") as file:
