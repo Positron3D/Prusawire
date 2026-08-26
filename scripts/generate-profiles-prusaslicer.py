@@ -14,29 +14,6 @@ import urllib.request
 # Make sure this URL starts with "raw.githubusercontent", otherwise it might download an HTML page.
 sourceUrl = "https://raw.githubusercontent.com/prusa3d/PrusaSlicer-settings-non-prusa-fff/refs/heads/main/Voron/3.0.0.ini"
 
-# Block that is put at the top of the profiles file, including comments and the vendor block.
-headerBlock = """
-# Printer profiles for Positron3D printers.
-# Source: https://github.com/Positron3D/PrusaSlicer-settings-non-prusa-fff
-
-[vendor]
-repo_id = non-prusa-fff
-# Vendor name will be shown by the Config Wizard.
-name = Positron3D
-# Configuration version of this file. Config file will only be installed, if the config_version differs.
-# This means, the server may force the PrusaSlicer configuration to be downgraded.
-config_version = 1.0.0
-# Where to get the updates from?
-# config_update_url = https://files.prusa3d.com/wp-content/uploads/repository/PrusaSlicer-settings-master/live/Positron3D/
-config_update_url = https://github.com/Positron3D/Prusawire
-
-##################################################
-# Prusawire
-# This is generated from the Voron Switchwire profiles with a few changes.
-# Source Voron Switchwire profiles: %SOURCE_URL%
-##################################################
-"""
-
 # Keys are strings to find (section names, section values). Values are the strings to replace with.
 # In dictionaries, order is not guaranteed. Be careful of replaced values disrupting other keys!
 replaceStrings = {
@@ -158,5 +135,4 @@ for sectionName in profiles.sections():
 
 # Write the profiles.
 with open(targetProfilesLocation, "w", encoding="utf8") as file:
-    file.write(headerBlock.strip().replace("%SOURCE_URL%", sourceUrl) + "\n\n")
     outputProfiles.write(file)
