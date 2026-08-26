@@ -20,6 +20,7 @@ replaceStrings = {
     "VORON Switchwire": "Prusawire",
     "Voron": "Prusawire",
     "VORON_SWITCHWIRE": "PRUSAWIRE",
+    ":VS_MK52": ":Prusawire",
     "@SWITCHWIRE": "@PRUSAWIRE",
     "@VORON2": "@VORON2_PRUSAWIRE_INHERITED", # Must be different to import, otherwise they are duplicates.
     "printer_model=~/(V2_250|V2_300|V2_350|VT_250|VT_300|VT_350|V0_120|VS_MK52)/ and ": "",
@@ -31,6 +32,7 @@ replaceProperties = {
     "bed_model": "prusawire_build_plate.stl",
     "bed_texture": "prusawire_texture.svg",
     "thumbnail": "thumbnail_prusawire.png",
+    "printer_model": "Prusawire",
 }
 
 
