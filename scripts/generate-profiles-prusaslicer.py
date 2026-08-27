@@ -24,7 +24,7 @@ replaceStrings = {
     ":VS_MK52": ":Prusawire",
     "@SWITCHWIRE": "@PRUSAWIRE",
     "@VORON2": "@VORON2_PRUSAWIRE_INHERITED", # Must be different to import, otherwise they are duplicates.
-    "printer_model=~/(V2_250|V2_300|V2_350|VT_250|VT_300|VT_350|V0_120|VS_MK52)/ and ": "",
+    "printer_model=~/(V2_250|V2_300|V2_350|VT_250|VT_300|VT_350|V0_120|VS_MK52)/": "printer_model=~/(Prusawire)/",
 }
 
 # Keys are the profiles names. Values are dictionaries with the property names to set with the given values.
