@@ -6,4 +6,4 @@ nav_order: 5
 
 # Assembly Manual
 
-A Voron-style Assembly Manual / Build Guide is in the works.  Check back here soon for a released PDF!
+The latest [Prusawire 2026.R1 Assembly Manual can be found on GitHub](https://github.com/Positron3D/Prusawire/blob/main/Manuals/Prusawire_2026.R1_Assembly_Manual.pdf).

@@ -170,8 +170,6 @@ To properly tension the X and Z belts:
 **Final Tensioning Options:**
 - **PF Makes Belt Tensioning Meter:** [3D-Printer/GT2 Belt Tension Meter at main · Diyshift/3D-Printer · GitHub](https://github.com/Diyshift/3D-Printer/tree/main/GT2%20Belt%20Tension%20Meter)
 	- Switchwire "Z" Spec - 1.8 to 2.2 (1.9 to 2.3 for EPDM high-temp belt)
-- **Prusa Belt Tension Gauge:** [Tension Meter for the GT2 belts of i3 MK3S+ or Prusa MINI+ by Prusament \| Download free STL model \| Printables.com](https://www.printables.com/model/46639-tension-meter-for-the-gt2-belts-of-i3-mk3s-or-prus)
-- **Biqu's Digital Belt Tension Tool:** [GitHub - bigtreetech/Belter-belt-tension-Tool: Belter belt tension Tool Info Page](https://github.com/bigtreetech/Belter-belt-tension-Tool)
 - **Prusa Mobile App:** 
 	- [Prusa on the Apple App Store](https://apps.apple.com/us/app/prusa/id6477531937)
 	- [Prusa - Apps on Google Play](https://play.google.com/store/apps/details?id=com.prusa3d.connect&hl=en-US&pli=1)
