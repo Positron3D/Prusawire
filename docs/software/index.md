@@ -45,7 +45,7 @@ Some defaults have been provided, but they are no doubt unsuitable for your exac
 The following workaround has been verified on both a Rapberry Pi 3 Model B and a Raspberry Pi 4. It is an extension of the Method 2 by [MyRigs3D](https://myrigs3d.com/blogs/infos/revive-your-prusa-mk3s-with-klipper-1-5-flash-bootloader) with the latest version of `avrdude`.
 
 Pre-Requisites: 
-- Pi OS: Latest
+- Pi OS: Latest or MainsailOS
 - `avrdude.conf` is not modified
 - GPIO pins are connected as described in Method 2
 
