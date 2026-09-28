@@ -20,8 +20,7 @@ Be sure to grab the latest STLs and documentation from the GitHub Repository or 
 - Everything to do with XZ Axis has changed and is not compatible with R1.
 - Everything to do with Y Axis has changed and is not compatible with R1.
 - Electronics adjacent components (Mainboard, RPi Mount, Wago, Toolhead Board, etc), Door Idler components, Gantry Bumper, LCD Cover, and Front Panel/deck cover can be re-used.
-- Existing belts can be re-used.
-
+- Existing belts can be re-used (although, depending upon how belts were trimmed, it's possible you may need to replace them for being too short)
 
 ## Manual & Documentation
 
